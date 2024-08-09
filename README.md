@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Shivendra singh chauhan</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Shivendra Singh Chauhan</h1>
+<h3 align="center">A Passionate Full Stack Developer From India</h3>
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"> 
 
