@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shiv_s_chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiv_s_chauhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivendra singh chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivendra singh chauhan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivendrasinghchouhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivendra singh chauhan" height="30" width="40" /></a>
 <a href="https://instagram.com/shivendra.s.chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivendra.s.chauhan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gadgettech." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gadgettech." height="30" width="40" /></a>
 </p>
