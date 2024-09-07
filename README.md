@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21071
-Fork on GitHub
-6533
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Shivendra Singh Chauhan</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 <img align="right" width="400" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd">
@@ -42,21 +26,6 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivendrasinghchauhan&show_icons=true&locale=en" alt="shivendrasinghchauhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivendrasinghchauhan&" alt="shivendrasinghchauhan" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
 About
 More
 Github
