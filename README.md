@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivendrasinghchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="shivendrasinghchauhan" /> </p>
 
-- 🌱 I’m currently learning **Programming**
+- 🌱 I’m currently learning **programming**
 
 - 💬 Ask me about **react, java and python**
 
@@ -26,13 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivendrasinghchauhan&show_icons=true&locale=en" alt="shivendrasinghchauhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivendrasinghchauhan&" alt="shivendrasinghchauhan" /></p>
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
