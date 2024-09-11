@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivendra Singh Chauhan</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
-<img align="right" width="400" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd">
+<img align="right" width="400" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivendrasinghchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="shivendrasinghchauhan" /> </p>
 
 - 🌱 I’m currently learning **programming**
